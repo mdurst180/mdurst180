@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I have been a technical co-founder, CTO & full stack engineer within both large companies and startups. I’m hands on, I love solving problems and I love building technology. I have experience working in the healthcare, financial & energy industries.
+I have been a technical co-founder, CTO & Full Stack Engineer within both large companies and startups. I’m hands on, I love solving problems and I love building technology.
 
-I love to solve problems & can get in the weeds. I want to understand how things work and ask questions. I love to face tough problems, think about architecture, systems, and write code. I love to bring products to life and see them out in the real world. I can pick up new languages and codebases relatively quickly. I’m pretty adept at being pragmatic and making reasonable decisions.
+I love to understand how things work and ask questions. I love to face tough problems, think about design, architecture, systems, and write code. I love to bring products to life and see them out in the real world. 
 
-Within teams, I work hard to build trust from those around me through reliability, credibility, vulnerability and authenticity. I love to build teams, mentor & grow. There has been a nice cyclical flow in my career as I move from engineer to leader and back again. I really enjoy that cycle and I’ve been fortunate to work with really smart teams in both capacities. 
+I can pick up new languages and codebases relatively quickly. I’m pretty adept at being pragmatic and making reasonable decisions.
+
+Within teams, I work hard to build trust from those around me through reliability, credibility, vulnerability and authenticity. I love to build teams, mentor & grow.
 
 <!--
 **mdurst180/mdurst180** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
