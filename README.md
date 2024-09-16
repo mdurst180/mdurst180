@@ -1,33 +1,32 @@
 # Hi there 👋
 
-I’m Mike Durst, a seasoned co-founder, CTO, and full stack engineer with over 20 years of experience. I'm passionate about developing innovative and scalable products and accelerating early-stage startups.
+I’m Mike Durst, a seasoned co-founder, CTO, and full-stack engineer with over 20 years of experience. I'm passionate about developing innovative and scalable products and accelerating early-stage startups.
 
 ---
 
 ### 🌟 What I Do
-I excel at problem-solving and love to build innovative technology:
-- 🚀 **Technical Leadership:** From strategy to execution, I drive tech roadmaps, manage diverse teams, and ensure that our tech stack aligns with business goals.
-- 💡 **Systems Thinking:** I thrive on understanding how things work, tackling tough challenges, and designing robust architectures and systems.
-- 🛠️ **Hands-On Coding:** I'm adept at picking up new languages and codebases quickly and making pragmatic, effective decisions.
+- 🚀 **Startup Leadership:** From ideation to execution, I can fundraise, develop strategy, build tech teams, and ensure our tech stack aligns with fast-paced startup goals.
+- 💡 **Systems Thinking:** I thrive on understanding how things work, tackling tough challenges, aligning and designing right-sized solutions.
+- 🛠️ **Hands-On Coding:** I’m deeply involved in coding, adept at picking up new languages and codebases quickly, and making pragmatic decisions to keep development agile and responsive.
 
 ---
 
 ### 🔧 Tech Stack
 - **Languages & Frameworks:** TypeScript, Node.js, Python, Ruby on Rails, Java
-- **Data Storage:** PostgreSQL, Redis, Blob Storage
-- **Cloud Platforms:** Google Cloud, AWS
-- **DevOps & Infrastructure:** CI/CD, Architecture, Data Modeling, RESTful APIs
+- **Data Storage:** PostgreSQL, Redis, Blob Storage, Snowflake
+- **DevOps & Infrastructure:** Google Cloud, AWS, CI/CD, Architecture, Data Modeling, RESTful APIs, OAuth, JWT
 
 ---
 
-### 🌱 I'm Always Learning
-- Continuously exploring new technologies, frameworks, and methodologies to stay on the cutting edge.
-- Engaging in professional development through courses, tech conferences, and community involvement.
+### 💡 Philosophy & Approach
+- **Curiosity:** Always asking questions to dive deep and understand the nuances of technology and business.
+- **Lean & Agile:** Focused on delivering MVPs swiftly and iterating based on real-world feedback.
+- **Team Building:** My leadership fosters trust through reliability, credibility, vulnerability, and authenticity. I am passionate about mentoring and growing agile, high-performing teams.
 
 ---
 
 ### 📬 Get in Touch
-Feel free to reach out to me for collaboration, mentorship, or just to chat about tech!
+Feel free to reach out to me for collaboration, mentorship, or just to chat about tech and startups!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/mdurst180)
 [![GitHub](https://img.shields.io/badge/GitHub--blue?style=social&logo=github)](https://github.com/mdurst180)
