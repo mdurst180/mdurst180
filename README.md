@@ -6,8 +6,8 @@ I’m Mike Durst, a seasoned co-founder, CTO, and full-stack engineer with over 
 
 ### 🌟 What I Do
 - 🚀 **Startup Leadership:** From ideation to execution, I can fundraise, develop strategy, build tech teams, and ensure our tech stack aligns with fast-paced startup goals.
-- 💡 **Systems Thinking:** I thrive on understanding how things work, tackling tough challenges, aligning and designing right-sized solutions.
-- 🛠️ **Hands-On Coding:** I’m deeply involved in coding, adept at picking up new languages and codebases quickly, and making pragmatic decisions to keep development agile and responsive.
+- 💡 **System Architecture:** I thrive on understanding how things work, tackling tough challenges, aligning and designing right-sized solutions.
+- 🛠️ **Coding:** I’m deeply involved in coding, adept at picking up new languages and codebases quickly, and making pragmatic decisions to keep development agile and responsive.
 
 ---
 
